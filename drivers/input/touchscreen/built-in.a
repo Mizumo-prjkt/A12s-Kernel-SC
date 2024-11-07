@@ -1,0 +1,46 @@
+!<thin>
+//                                              700       `
+of_touchscreen.o/
+synaptics/td4150/synaptics_tcm_spi.o/
+synaptics/td4150/synaptics_tcm_core.o/
+synaptics/td4150/synaptics_tcm_touch.o/
+synaptics/td4150/synaptics_tcm_sec_fn.o/
+synaptics/td4150/synaptics_tcm_sec_fn_test.o/
+synaptics/td4150/synaptics_tcm_zeroflash.o/
+ili9881x/ili9881x.o/
+ili9881x/ili9881x_spi.o/
+ili9881x/ili9881x_init.o/
+ili9881x/ili9881x_ic.o/
+ili9881x/ili9881x_touch.o/
+ili9881x/ili9881x_mp.o/
+ili9881x/ili9881x_hostdl.o/
+ili9881x/ili9881x_node.o/
+ili9881x/ili9881x_sec_fn.o/
+ili9881x/ili9881x_sec_fn_test.o/
+novatek/nt36525/nt36xxx.o/
+novatek/nt36525/nt36xxx_fw_update.o/
+novatek/nt36525/nt36xxx_ext_proc.o/
+novatek/nt36525/nt36xxx_mp_ctrlram.o/
+novatek/nt36525/nt36xxx_sec_fn.o/
+/0              0           0     0     644     152392    `
+/18             0           0     0     644     306544    `
+/56             0           0     0     644     676040    `
+/95             0           0     0     644     296272    `
+/135            0           0     0     644     317080    `
+/176            0           0     0     644     231624    `
+/222            0           0     0     644     354968    `
+/266            0           0     0     644     563408    `
+/287            0           0     0     644     439096    `
+/312           /0           0     0     644     543336    `
+/338            0           0     0     644     550184    `
+/362            0           0     0     644     612752    `
+/389            0           0     0     644     835264    `
+/413            0           0     0     644     510360    `
+/441           /0           0     0     644     910792    `
+/467            0           0     0     644     575632    `
+/495            0           0     0     644     362200    `
+/528            0           0     0     644     612608    `
+/555            0           0     0     644     296000    `
+/592            0           0     0     644     190144    `
+/628            0           0     0     644     398944    `
+/666            0           0     0     644     723232    `

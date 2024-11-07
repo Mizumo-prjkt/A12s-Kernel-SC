@@ -1,0 +1,1 @@
+#define UTS_RELEASE "4.19.111-HAKAY v2-a12s"

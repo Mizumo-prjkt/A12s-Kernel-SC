@@ -1,0 +1,14 @@
+!<thin>
+//                                              146       `
+synaptics_tcm_spi.o/
+synaptics_tcm_core.o/
+synaptics_tcm_touch.o/
+synaptics_tcm_sec_fn.o/
+synaptics_tcm_sec_fn_test.o/
+synaptics_tcm_zeroflash.o/
+/0              0           0     0     644     306544    `
+/21             0           0     0     644     676040    `
+/43             0           0     0     644     296272    `
+/66             0           0     0     644     317080    `
+/90             0           0     0     644     231624    `
+/119            0           0     0     644     354968    `

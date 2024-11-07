@@ -1,0 +1,65 @@
+!<thin>
+//                                              884       `
+setup-is-module.o/
+is-v8_20_0/setup-is.o/
+is-v8_20_0/setup-is-sensor.o/
+is-v8_20_0/is-hw-pwr.o/
+is-v8_20_0/is-hw-chain.o/
+is-v8_20_0/is-hw-dvfs.o/
+is-v8_20_0/is-subdev-3aa.o/
+is-v8_20_0/is-subdev-3ac.o/
+is-v8_20_0/is-subdev-3ap.o/
+is-v8_20_0/is-subdev-3af.o/
+is-v8_20_0/is-subdev-3ag.o/
+is-v8_20_0/is-subdev-isp.o/
+is-v8_20_0/is-subdev-ixc.o/
+is-v8_20_0/is-subdev-ixp.o/
+is-v8_20_0/is-subdev-ixg.o/
+is-v8_20_0/is-subdev-ixt.o/
+is-v8_20_0/is-subdev-ixv.o/
+is-v8_20_0/is-subdev-ixw.o/
+is-v8_20_0/is-subdev-mexc.o/
+is-v8_20_0/is-subdev-orbxc.o/
+is-v8_20_0/is-subdev-mcs.o/
+is-v8_20_0/is-subdev-mcsp.o/
+is-v8_20_0/is-subdev-vra.o/
+is-v8_20_0/is-subdev-paf.o/
+is-v8_20_0/is-subdev-clh.o/
+is-v8_20_0/is-subdev-clxc.o/
+is-v8_20_0/is-subdev-sensor.o/
+is-v8_20_0/is-subdev-sensor_vc0.o/
+is-v8_20_0/is-subdev-sensor_vc1.o/
+is-v8_20_0/is-subdev-sensor_vc2.o/
+is-v8_20_0/is-subdev-sensor_vc3.o/
+
+/0              0           0     0     644     368576    `
+/19             0           0     0     644     207768    `
+/42             0           0     0     644     152616    `
+/72             0           0     0     644     329704    `
+/96             0           0     0     644     498560    `
+/122            0           0     0     644     435920    `
+/147           /0           0     0     644     376408    `
+/175           /0           0     0     644     361784    `
+/203           /0           0     0     644     372768    `
+/231           /0           0     0     644     291224    `
+/259           /0           0     0     644     291224    `
+/287           /0           0     0     644     375112    `
+/315           /0           0     0     644     351488    `
+/343           /0           0     0     644     345296    `
+/371           /0           0     0     644     352496    `
+/399           /0           0     0     644     352496    `
+/427           /0           0     0     644     341672    `
+/455           /0           0     0     644     341688    `
+/483            0           0     0     644     291240    `
+/512            0           0     0     644     291248    `
+/542           /0           0     0     644     373392    `
+/570            0           0     0     644     406392    `
+/599           /0           0     0     644     345832    `
+/627           /0           0     0     644     291216    `
+/655           /0           0     0     644     291216    `
+/683            0           0     0     644     291240    `
+/712            0           0     0     644     345728    `
+/743            0           0     0     644     348712    `
+/778            0           0     0     644     348712    `
+/813            0           0     0     644     348712    `
+/848            0           0     0     644     348712    `
