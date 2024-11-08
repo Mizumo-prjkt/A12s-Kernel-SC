@@ -1,13 +1,13 @@
 #!/bin/bash
 
 
+
 export PLATFORM_VERSION=13
 export ANDROID_MAJOR_VERSION=t
 export ARCH=arm64
 
-make MkZinTK_defconfig
-
-make
+make ARCH=arm64 MkZinTK_defconfig
+make ARCH=arm64 -j64
 
 
 
