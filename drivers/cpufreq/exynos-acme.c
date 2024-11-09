@@ -1409,7 +1409,7 @@ static __init int cpufreq_read_cpu_min_c2(char *cpu_min_c2)
 __setup("cpu_min_c2=", cpufreq_read_cpu_min_c2);
 
 
-/*Chatur, Carlos Burero & physwizz*/
+/*Chatur, Carlos Burero & physwizz* TkZinJP/
 /*Overclocking little cores to 2.2GHz*/
 static unsigned long arg_cpu_max_c1 = 2210000; /*max_cpu_freq=2.2 GHz for little cores*/
 
